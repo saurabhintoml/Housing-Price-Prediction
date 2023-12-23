@@ -37,9 +37,5 @@ The model's performance metrics are as follows:
 MAE: 267985.06
 MSE: 493368413982.23
 RMSE: 702401.89
-Usage
-To use this project:
 
-Clone the repository: git clone https://github.com/codesanya/housing_price_prediction_model
-Install the required libraries: pip install -r requirements.txt
-Run the project: python housing_price_prediction.py
+
